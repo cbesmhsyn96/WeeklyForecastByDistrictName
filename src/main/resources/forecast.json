@@ -1,0 +1,186 @@
+{
+  "daily": {
+    "data": [
+      {
+        "day": "2024-07-30",
+        "weather": "partly_sunny",
+        "icon": 4,
+        "summary": "Partly sunny, fewer clouds in the evening. Temperature 22/30 °C. Wind from NE.",
+        "all_day": {
+          "weather": "partly_sunny",
+          "icon": 4,
+          "temperature": 26.0,
+          "temperature_min": 21.8,
+          "temperature_max": 29.5,
+          "wind": {
+            "speed": 5.8,
+            "dir": "NE",
+            "angle": 40
+          },
+          "cloud_cover": {
+            "total": 27
+          },
+          "precipitation": {
+            "total": 0.0,
+            "type": "none"
+          }
+        }
+      },
+      {
+        "day": "2024-07-31",
+        "weather": "sunny",
+        "icon": 2,
+        "summary": "Sunny. Temperature 19/28 °C. Wind from NE in the afternoon.",
+        "all_day": {
+          "weather": "sunny",
+          "icon": 2,
+          "temperature": 23.5,
+          "temperature_min": 19.0,
+          "temperature_max": 28.0,
+          "wind": {
+            "speed": 4.5,
+            "dir": "NE",
+            "angle": 49
+          },
+          "cloud_cover": {
+            "total": 4
+          },
+          "precipitation": {
+            "total": 0.0,
+            "type": "none"
+          }
+        }
+      },
+      {
+        "day": "2024-08-01",
+        "weather": "sunny",
+        "icon": 2,
+        "summary": "Sunny. Temperature 19/29 °C. Wind from NE.",
+        "all_day": {
+          "weather": "sunny",
+          "icon": 2,
+          "temperature": 23.5,
+          "temperature_min": 18.8,
+          "temperature_max": 29.0,
+          "wind": {
+            "speed": 4.4,
+            "dir": "NE",
+            "angle": 52
+          },
+          "cloud_cover": {
+            "total": 4
+          },
+          "precipitation": {
+            "total": 0.0,
+            "type": "none"
+          }
+        }
+      },
+      {
+        "day": "2024-08-02",
+        "weather": "sunny",
+        "icon": 2,
+        "summary": "Sunny. Temperature 19/31 °C. Wind from NE in the afternoon.",
+        "all_day": {
+          "weather": "sunny",
+          "icon": 2,
+          "temperature": 24.2,
+          "temperature_min": 19.2,
+          "temperature_max": 30.5,
+          "wind": {
+            "speed": 3.8,
+            "dir": "ENE",
+            "angle": 57
+          },
+          "cloud_cover": {
+            "total": 0.0
+          },
+          "precipitation": {
+            "total": 0.0,
+            "type": "none"
+          }
+        }
+      },
+      {
+        "day": "2024-08-03",
+        "weather": "sunny",
+        "icon": 2,
+        "summary": "Sunny. Temperature rising to 36 °C.",
+        "all_day": {
+          "weather": "sunny",
+          "icon": 2,
+          "temperature": 26.8,
+          "temperature_min": 17.8,
+          "temperature_max": 35.5,
+          "wind": {
+            "speed": 2.2,
+            "dir": "E",
+            "angle": 92
+          },
+          "cloud_cover": {
+            "total": 0.0
+          },
+          "precipitation": {
+            "total": 0.0,
+            "type": "none"
+          }
+        }
+      },
+      {
+        "day": "2024-08-04",
+        "weather": "sunny",
+        "icon": 2,
+        "summary": "Sunny. Temperature 23/32 °C. Wind from NE.",
+        "all_day": {
+          "weather": "sunny",
+          "icon": 2,
+          "temperature": 27.0,
+          "temperature_min": 22.8,
+          "temperature_max": 31.5,
+          "wind": {
+            "speed": 4.7,
+            "dir": "NE",
+            "angle": 42
+          },
+          "cloud_cover": {
+            "total": 9
+          },
+          "precipitation": {
+            "total": 0.0,
+            "type": "none"
+          }
+        }
+      },
+      {
+        "day": "2024-08-05",
+        "weather": "mostly_sunny",
+        "icon": 3,
+        "summary": "Sunny, more clouds in the afternoon. Temperature 23/30 °C. Wind from NE.",
+        "all_day": {
+          "weather": "mostly_sunny",
+          "icon": 3,
+          "temperature": 26.0,
+          "temperature_min": 22.8,
+          "temperature_max": 29.5,
+          "wind": {
+            "speed": 5.0,
+            "dir": "NE",
+            "angle": 40
+          },
+          "cloud_cover": {
+            "total": 18
+          },
+          "precipitation": {
+            "total": 0.0,
+            "type": "none"
+          }
+        }
+      }
+    ]
+  },
+  "elevation": 0,
+  "lat": "41.07N",
+  "lon": "28.24E",
+  "timezone": "UTC",
+  "units": "metric"
+}
