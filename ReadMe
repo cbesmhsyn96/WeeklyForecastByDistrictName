@@ -1,4 +1,4 @@
-Bu proje ilçe bazında bir haftalık hava durumu tahmini yapmaktadır. Main metodu içindeki sonsuz döngü art arda arama yapmayı sağlamaktadır.
+Bu proje ilçe bazında bir haftalık hava durumu tahmini yapmaktadır. Main metodu içindeki sonsuz döngü art arda arama yapmayı sağlamaktadır. Proje java core ile yazıldı.
 Veri çektiği API' lerin base URLleri:
 https://geocode.maps.co/search
 https://www.meteosource.com/api/v1/free/point
